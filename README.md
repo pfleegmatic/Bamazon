@@ -1,9 +1,9 @@
 # Bamazon
 
 NPM Packages used:
-npm install inquirer
-npm install mysql
-npm install cli-table
+npm install inquirer \n
+npm install mysql \n
+npm install cli-table \n
 
 #To place and order as a customer, execute the following command: node bamazonCustomer.js
 
